@@ -1,1 +1,1 @@
-### Read the [UPDATE LOG](Update-log.MD)
+### Lees de [UPDATE LOG](Update-log.MD)
