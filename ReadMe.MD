@@ -1,7 +1,9 @@
 # Inventaris HHScholen & SG Archipel!
 Contactpersoon: [Merlin Deramaix](mailto:merlin.deramaix@hhscholen.be)
 
-## Lees [hier](UpdateLog.MD) de Update Log
+- Lees [hier](UpdateLog.MD) de Update Log
+- Problemen en bugs melden of features voorstellen kan via de [Git Reports pagina](https://gitreports.com/issue/hhscholen/inventaris) (geen Github account vereist) of de [Github issues page](https://github.com/hhscholen/inventaris/issues) (Github account vereist).
+
 
 ## Features in de pipeline
 - Netwerkprinten op labelprinter ICT (prioritair!)
