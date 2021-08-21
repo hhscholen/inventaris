@@ -1,5 +1,5 @@
 # Inventaris HHScholen & SG Archipel!
-    Contactpersoon [Merlin Deramaix](mailto:merlin.deramaix@hhscholen.be)
+Contactpersoon [Merlin Deramaix](mailto:merlin.deramaix@hhscholen.be)
 
 ## Lees [hier](UpdateLog.MD) de Update Log
 
