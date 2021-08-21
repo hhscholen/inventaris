@@ -1,1 +1,1 @@
-### [UPDATE LOG](Update-log.MD)
+### Read the [UPDATE LOG](Update-log.MD)
