@@ -1,3 +1,6 @@
+# 24 aug. 2021
+- installed Laravel on VM
+- LDAP sync ingestld (cronjob - php artisan)
 # 20 aug. 2021
 ### Public release
 
