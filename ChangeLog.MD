@@ -1,6 +1,3 @@
-# 31 aug. 2021
-- toegang voor ADM-leden (die het nodig hebben) via Azure Security Group *Inventaris-Access-Group*
-
 # 24 aug. 2021
 - installed Laravel on VM
 - LDAP sync ingestld (cronjob - php artisan)

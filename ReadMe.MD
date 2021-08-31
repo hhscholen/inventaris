@@ -9,6 +9,3 @@
 - sync (laatste) gebruiker(s) per toestel (met Azure AD (HHScholen) / Google Workspace (Archipel))
 - LDAP/SAML GW (Archipel)
 - Herstellingen bij Signpost aanmelden via inventaris
-
-## NOTES
-- Gedaan via Azure Security Group "Inventaris-Access-Group"
