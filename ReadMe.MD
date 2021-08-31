@@ -11,4 +11,4 @@
 - Herstellingen bij Signpost aanmelden via inventaris
 
 ## NOTES
-- toegang voor ADM-leden: geregeld via Azure Security Group "Inventaris-Access-Group"
+- toegang voor ADM-leden: geregeld via local AD Security Group "Inventaris-Access-Group"
