@@ -3,6 +3,7 @@
 - Lees [hier](ChangeLog.MD) de Change Log
 - Problemen en bugs melden of features voorstellen kan via de [Git Reports pagina](https://gitreports.com/issue/hhscholen/inventaris) (geen Github account vereist) of de [Github issues page](https://github.com/hhscholen/inventaris/issues) (Github account vereist).
 - [Officiële snipeIT documentatie](https://snipe-it.readme.io/docs/overview)
+- Bekijk [hier](PersAdmin-HowTo.MD) de SOP/handleiding voor PersAdmin/BKH
 
 ## Features in de pipeline
 - LLN-toestellen importeren (wachten op laatste wijzigingen d.d 7 sept. 2021)
