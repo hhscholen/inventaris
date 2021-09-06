@@ -5,8 +5,9 @@
 - [Officiële snipeIT documentatie](https://snipe-it.readme.io/docs/overview)
 
 ## Features in de pipeline
-- Netwerkprinten op labelprinter ICT (prioritair!)
-- sync (laatste) gebruiker(s) per toestel (met Azure AD (HHScholen) / Google Workspace (Archipel))
+- LLN-toestellen importeren (wachten op laatste wijzigingen d.d 7 sept. 2021)
+- Netwerkprinten op labelprinter ICT
+- sync (laatste) gebruiker(s) per toestel (met Azure AD (HHScholen) / Google Workspace (Archipel)) - TBC
 - LDAP/SAML GW (Archipel)
 - Herstellingen bij Signpost aanmelden via inventaris
 
