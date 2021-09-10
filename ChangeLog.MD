@@ -1,5 +1,6 @@
 # 10 sept. 2021
 - _Unique serial numbers_ enabled (= controle op unieke serienummer in DB)
+- Forced redirection of http to https/SSL
 
 # 1 sept. 2021
 - LDAP auto sync ingesteld (elke 30 min)
