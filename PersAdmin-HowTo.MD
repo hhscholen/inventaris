@@ -1,4 +1,4 @@
-# How to Personeelsadministratie (PersAdmin / BKH)
+# How to / SOP Personeelsadministratie (PersAdmin / BKH)
 
 ## Toestel toekennen
 

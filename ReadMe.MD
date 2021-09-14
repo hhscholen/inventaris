@@ -6,7 +6,7 @@
 
 ## SOP / HANDLEIDINGEN
 - [PersAdmin / BKH](PersAdmin-HowTo.MD)
-
+- [Graadsecretariaten](gr.SEC-HowTo.MD)
 ## Features in de pipeline
 - LLN-toestellen importeren (wachten op laatste wijzigingen d.d 7 sept. 2021)
 - Netwerkprinten op labelprinter ICT
