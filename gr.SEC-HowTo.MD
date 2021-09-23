@@ -1,4 +1,5 @@
 # How To / SOP gr.SEC bij herstelling van een defecte LLN-toestel
+Je kan de flow **op afbeelding** bekijken via [deze link](https://inventaris.hhscholen.be/img/flow.png)
 ## Diagnose en opstart inventaris
 - LLN brengt 'defect toestel' binnen op het graadsecretariaat
 - Secretariaat doet de eerste vaststelling(en) en eventuele re-imaging
