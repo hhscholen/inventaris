@@ -1,3 +1,6 @@
+# 1 oct. 2021
+- upgraded to snipeIT [v.5.2](https://github.com/snipe/snipe-it/releases/tag/v5.2.0)
+
 # 10 sept. 2021
 - _Unique serial numbers_ enabled (= controle op unieke serienummer in DB)
 - Forced redirection of http to https/SSL
