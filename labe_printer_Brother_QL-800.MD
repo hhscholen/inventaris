@@ -4,6 +4,7 @@
 ### Additional software
 - [Brother Printer Instelling Tool](https://support.brother.com/g/b/downloadtop.aspx?c=be&lang=nl&prod=lpql800euk)
 
+
 ## Voorkeursinstellingen voor afdrukken
 *Windows > Printers en scanners > Brother QL-800 > Beheren > Voorkeursinstellingen voor afdrukken*
 - *tab* Basis
@@ -13,6 +14,23 @@
     - Marge type: 3,0mm
     - Stand: Liggend
     - Opties: Knip na iedere: True (1 label)
+
+
+## SnipeIT Branding settings
+*inventaris.hhscholen.be > Admin > Branding*
+*[direct link](https://inventaris.hhscholen.be/admin/branding)*
+**Instellingen hieronder gelden enkel voor labels/barcodes**
+- Label logo: [set this image](https://inventaris.hhscholen.be/uploads/setting-label_logo-Xq3Mgd8w33.png)
+
+## SnipeIT Barcodes settings
+*inventaris.hhscholen.be > Admin > Barcodes*
+*[direct link](https://inventaris.hhscholen.be/admin/barcodes)*
+- QR odes weergeven: True
+- QR-code soort: QRCODE
+- Streepjescode weergeven: False
+- Streepjescode soort: C39
+- QR Code tekst: *none*
+
 
 ## SnipeIT Labels settings
 *inventaris.hhscholen.be > Admin > Label Settings*
@@ -40,4 +58,3 @@
     - Model: False
     - Bedrijfsnaam: False
 
-**alsook icoon voor label, instelling onder branding, [link naar image](https://inventaris.hhscholen.be/uploads/setting-label_logo-Xq3Mgd8w33.png)**
