@@ -7,12 +7,13 @@
 ## SOP / HANDLEIDINGEN
 - [PersAdmin / BKH](PersAdmin-HowTo.MD)
 - [Graadsecretariaten](gr.SEC-HowTo.MD)
-## Features in de pipeline
-- LLN-toestellen importeren (wachten op laatste wijzigingen d.d 7 sept. 2021)
+
+## Features voor de toekomst / te evalueren
 - Netwerkprinten op labelprinter ICT
 - sync (laatste) gebruiker(s) per toestel (met Azure AD (HHScholen) / Google Workspace (Archipel)) - TBC
 - LDAP/SAML GW (Archipel)
 - Herstellingen bij Signpost aanmelden via inventaris
+- retour van LKR/PERS-laptop op voorhand ingeven in inventaris
 
 ## NOTES
 - toegang voor ADM-leden: geregeld via local AD Security Group "Inventaris-Access-Group"
