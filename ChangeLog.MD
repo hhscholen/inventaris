@@ -1,4 +1,10 @@
-# 1 oct. 2021
+# 12 okt. 2021
+- Regex lokalen opnieuw toegevoegd: oftewel leeg veld oftewel gebouw(hoofdletter), vloer (eventueel -), punt, volgnummer
+    ```
+    regex:/^$|[[:upper:]]\-?[[:digit:]]\.[[:digit:]][[:digit:]]/
+    ```
+
+# 1 okt. 2021
 - upgraded to snipeIT [v.5.2](https://github.com/snipe/snipe-it/releases/tag/v5.2.0)
 - pushed _fix usernames_; dubbele gebruikers weggehaald (gebruikers met username zonder @(leerling.)hhscholen.be + eventuele toegekende toestellen verplaatst naar gebruik met @...)
 
