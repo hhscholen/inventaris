@@ -30,7 +30,7 @@ In de inventaris aanpassen dat het eigen toestel in herstelling is
 -   Selecteer het *eigen* toestel
 -   Klik op **'Check in**'
 	-   Asset naam: wordt automatisch ingevuld
-	-   Status: selecteer hier voor 'In herstelling - ICT'
+	-   Status: selecteer hier voor _'In herstelling - gr.SEC (naar ICT brengen!)'_
 	-   Locatie: wordt automatisch ingevuld
 	-   Ingechekt datum: is de systeemdatum
 	-   Opmerking: voorlopig niet invullen
@@ -48,12 +48,13 @@ Open de BYOD (byod.signpost.be - aanmelden met O365 account)
 -   Sluit de BYOD
 
 -   Secretriaat brengt de te herstellen toestellen op de afgesproken plaats (ICT-lokaal, K1.34)
+-	**ICT** veranderd status van toestel(len), door edit van de asset, naar status label: _'In herstelling - ICT'_
 -   Herstellingen worden uitgevoerd door de firma
 -   ICT meldt indien de toestellen hersteld zijn - telefonisch of per mail
 -   De **inventaris** wordt aangepast door ICT bij afhaal. (uit herstelling -> terug naar LLN)
 
 ## Na afloop van een herstelling
--   De toestellen zijn nu terug te vinden onder 'Uit herstelling - gr.SEC':
+-   De toestellen zijn nu terug te vinden onder 'Uit herstelling - gr.SEC'
 -   Secretariaat komt de herstelde toestellen afhalen op ICT (K1.34)
 -   Secretariaat meldt aan de LLN dat hij zijn laptop kan komen afhalen
 -   Secretariaat past de inventaris opnieuw aan bij de wissel tussen uitleenlaptop & eigentoestel
