@@ -1,8 +1,10 @@
 # 12 okt. 2021
 - Regex lokalen opnieuw toegevoegd: oftewel leeg veld oftewel gebouw(hoofdletter), vloer (eventueel -), punt, volgnummer
-    ```
-    regex:/^$|[[:upper:]]\-?[[:digit:]]\.[[:digit:]][[:digit:]]/
-    ```
+```
+regex:/^$|[[:upper:]]\-?[[:digit:]]\.[[:digit:]][[:digit:]]/
+```
+- toevoegen van extra Status Label: _In herstelling - gr.SEC (naar ICT brengen!)_
+    - te gebruiken door gr.SEC bij een LLN-toestel dat hersteld moet worden. Bij inbrengen van toestel status zetten op _In herstelling - gr.SEC (naar ICT brengen!)_. Wanneer het toestel bij ICT wordt gebracht veranderd **ICT** (door edit van asset) het/de toestel(len) naar _In herstelling - ICT_
 
 # 1 okt. 2021
 - upgraded to snipeIT [v.5.2](https://github.com/snipe/snipe-it/releases/tag/v5.2.0)
