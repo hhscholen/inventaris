@@ -11,7 +11,7 @@ Om aan een gebruiker rechten (edit of checkin-out) te kunnen geven moet het volg
 - rechten gekregen op de webapplicatie zelf (inventaris.hhscholen.be)
 
 ## Stappen/werkwijze om een gebruiker checkin-out/edit/admin rechten te geven
-### Controleer of gebruiker aanwezig is op de lokale AD (10.2.0.160 / 10.32.0.8)
+### 1. Controleer of gebruiker aanwezig is op de lokale AD (10.2.0.160 / 10.32.0.8)
 _indien neen:_
     - maak de gebruiker aan op de lokale AD op het pad: _ad.hhscholen.be/Gebruikers/Leerkrachten/Andere_
     - vul het volgende in:
@@ -22,10 +22,10 @@ _indien neen:_
         - laat de gebruiker zijn O365-wachtwoord ingeven (zodat deze niet wordt overschreven tijdens de synchronisatie met Azure AD)
         - vink **UIT** _Gebruiker moet wachtwoord bij volgende aanmelding wijzigen_
 
-### Controleer dat de gebruiker de correcte groep is toegekend
+### 2. Controleer dat de gebruiker de correcte groep is toegekend
 - controleer (of voeg toe) de gebruiker aan de groep (op lokale AD (10.2.0.160 / 10.32.0.8)) _Inventaris-Access-Group_
 
-### Geef de rechten op de webapplicatie
+### 3. Geef de rechten op de webapplicatie
 - open [inventaris.hhscholen.be](https://inventaris.hhscholen.be/)
 - meld aan
 - ga naar _Personen_ ([directe link](https://inventaris.hhscholen.be/users))
