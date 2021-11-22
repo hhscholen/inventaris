@@ -1,3 +1,7 @@
+# 22 nov. 2021
+- upgrade to snipeIT [v.5.2.2](https://github.com/snipe/snipe-it/releases/tag/v5.3.2)
+    - also [v.5.2.1](https://github.com/snipe/snipe-it/releases/tag/v5.3.0)
+
 # 12 okt. 2021
 - Regex lokalen opnieuw toegevoegd: oftewel leeg veld oftewel gebouw(hoofdletter), vloer (eventueel -), punt, volgnummer
 ```
