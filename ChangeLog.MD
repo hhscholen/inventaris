@@ -1,3 +1,7 @@
+# 28 apr. 2021
+- upgrade to snipeIT [v.5.4.3](https://github.com/snipe/snipe-it/releases/tag/v5.4.3)
+    - [full ChangeLog snipeIT](https://github.com/snipe/snipe-it/compare/v5.2.0...v5.4.3)
+
 # 22 nov. 2021
 - upgrade to snipeIT [v.5.2.2](https://github.com/snipe/snipe-it/releases/tag/v5.3.2)
     - also [v.5.2.1](https://github.com/snipe/snipe-it/releases/tag/v5.3.0)
