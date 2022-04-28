@@ -14,6 +14,7 @@
 - LDAP/SAML GW (Archipel)
 - Herstellingen bij Signpost aanmelden via inventaris
 - retour van LKR/PERS-laptop op voorhand ingeven in inventaris
+- mogelijkheid van query's te doen op de SQL van deze DB? 
 
 ## NOTES
 - toegang voor ADM-leden: geregeld via local AD Security Group "Inventaris-Access-Group"
