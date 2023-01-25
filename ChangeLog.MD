@@ -1,3 +1,6 @@
+# 2023-01-25 
+- upgrade to SnipeIT [v6.0.14](https://github.com/snipe/snipe-it/releases/tag/v6.0.14)
+
 # 22 aug. 2022
 - upgrade to snipeIT [v.6.0.9](https://github.com/snipe/snipe-it/releases/tag/v6.0.9)
 
