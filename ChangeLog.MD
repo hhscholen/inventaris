@@ -1,3 +1,6 @@
+# 2023-02-15
+- link in footer (melden van probleem) veranderd van GitReports naar [nieuw ticket maken in Helpdesk ICT](https://hhscholen.freshdesk.com/support/tickets/new)
+-   GitReports (.com) was EOL en zo komen alle tickets op éénzelfde plaats terecht
 # 2023-01-25 
 - upgrade to SnipeIT [v6.0.14](https://github.com/snipe/snipe-it/releases/tag/v6.0.14)
 
